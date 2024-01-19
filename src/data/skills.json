@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "C/C++",
+    "imageSrc": "skills/cpp.png" 
+  },
+  {
+    "title": "sql",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "OOPS",
+    "imageSrc": "skills/oops.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "DSA",
+    "imageSrc": "skills/dsa.png"
+  }
+  
+  
+
+ 
+  
+]
